@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/antinoobe/tpNoteDominguez#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "prettier": "^1.15.3"
   }
 }
